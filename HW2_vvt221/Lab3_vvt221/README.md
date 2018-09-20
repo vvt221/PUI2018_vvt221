@@ -6,7 +6,7 @@
 
 ## Showing the existence of test.csv file in history
 
-![screen shot](../Lab3_vvt221/test_csv_history_final.png)
+![screen shot](../Lab3_vvt221/final_history.png)
 
 ## Removal of test.csv file and verification at the local site
 
@@ -14,4 +14,4 @@
 
 ## Removal of test.csv file and verification at GitHub
 
-![screen shot](../Lab3_vvt221/final_history.png)
+![screen shot](../Lab3_vvt221/test_csv_history_final.png)
