@@ -2,16 +2,16 @@
 
 ## Creating test.csv
 
-![screen shot](../test_csv_creation.png)
+![screen shot](../Lab3_vvt221/test_csv_creation.png)
 
 ## Showing the existence of test.csv file in history
 
-![screen shot](../test_csv_history_final.png)
+![screen shot](../Lab3_vvt221/test_csv_history_final.png)
 
 ## Removal of test.csv file and verification at the local site
 
-![screen shot](../list_lab03_files.png)
+![screen shot](../Lab3_vvt221/list_lab03_files.png)
 
 ## Removal of test.csv file and verification at GitHub
 
-![screen shot](../final_history.png)
+![screen shot](../Lab3_vvt221/final_history.png)
