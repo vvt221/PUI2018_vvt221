@@ -1,8 +1,11 @@
-#!/usr/bin/python
+
 
 from __future__ import print_function
 import json
-import urllib.request
+try:
+    import urllib2 as urllib
+except ImportError:
+    import urllib.request as urllib
 import sys
 
 if not len(sys.argv) == 3:
@@ -12,11 +15,10 @@ if not len(sys.argv) == 3:
 api_key=str(sys.argv[1])
 bus_no=str(sys.argv[2])
 
-print(api_key)
-print(bus_no)
+
 mta_url="http://bustime.mta.info/api/siri/vehicle-monitoring.json?key="+api_key+"&VehicleMonitoringDetailLevel=calls&LineRef="+ bus_no
-print(mta_url)
-response = urllib.request.urlopen(mta_url).read()
+
+response = urllib.urlopen(mta_url).read()
 mta_data = json.loads(response.decode('utf-8'))
 mta_vehicle_details = mta_data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
 
