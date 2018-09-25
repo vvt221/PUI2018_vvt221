@@ -2,7 +2,6 @@ from __future__ import print_function
 import json
 import urllib.request
 import sys
-import csv
 import os
 
 if not len(sys.argv) == 4:
@@ -51,6 +50,6 @@ for vehicle in range(no_active_buses):
         
     else:
         fout.write(latitude+","+longitude+",N/A,N/A\n")
-        print(latitude+","+longitude+",N/A,N/A\n")
+        print(latitude+","+longitude+",N/A,N/A")
         
     
