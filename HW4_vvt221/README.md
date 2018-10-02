@@ -19,9 +19,9 @@
 
 * Displayed the redacted dataframe
 
-* Generated and formuated the hypothesis 
+* Generated and formuated the hypothesis, descriptively and mathematically.
 
-* Plotted the relevant graph required to prove/disprove the hypothesis
+* Plotted the relevant graphs required to prove/disprove the hypothesis
 
 
 ## Assignment 3
@@ -35,4 +35,6 @@
 * Calculated the zscore and evaluated the hypothesis
 
 * Completed the assignment independently.
+
+
 
