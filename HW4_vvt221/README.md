@@ -12,6 +12,8 @@
 
 * Worked with Kloe, Rachael and Qinyu to figure out the underlying parameters for each distribution.
 
+* Worked with Rachael for extra credit assignment.
+
 
 ## Assignment 2
 
@@ -22,6 +24,8 @@
 * Generated and formuated the hypothesis, descriptively and mathematically.
 
 * Plotted the relevant graphs required to prove/disprove the hypothesis
+
+* Formulated the hypothesis independently
 
 
 ## Assignment 3
