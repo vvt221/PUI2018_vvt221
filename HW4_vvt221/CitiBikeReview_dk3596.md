@@ -7,4 +7,4 @@ case we might be assured if the lower ridership in the next month is due to peop
 ## Test to use for hypothesis testing
 
 Since there are two samples (months) for which the data we are comparing, the z-test should be appropriate for testing the hypothesis.
-
+Z-test would tell us whether the observations for the month of February are statistically same or different than that of January. 
