@@ -21,3 +21,4 @@
 * In the spirit of reproducibility, matched the seed with Rachel to verify the values of various correlation coefficients, p-values etc
 * Extra-credit assignments: Borrowed the latitude and longitude limits from Rachel.
 * Gave coding pointers to Linda, Qinyu
+* Made use of seaborn library
