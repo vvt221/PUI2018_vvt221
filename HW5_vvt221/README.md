@@ -19,7 +19,7 @@ logistic regression	| 27, age, race, employment status, oral contraceptive use, 
 
 ## Chi-Square
 ![Alt text](../HW5_vvt221/images/i2.PNG)
-![Alt text](../HW5_rms818/images/i3.PNG)
+![Alt text](../HW5_vvt221/images/i3.PNG)
 
 ## Correlation
 ![Alt text](../HW5_vvt221/images/i1.png)
