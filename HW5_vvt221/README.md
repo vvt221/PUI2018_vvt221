@@ -1,7 +1,7 @@
 # Assignment 1
 
 * Performed peer review of hypothesis and suggestion for testing the hypothesis.
-  URL: https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW4_msm796/CitibikeReview_vvt221.md
+* URL: https://github.com/jinalklaulitz/PUI2018_msm796/blob/master/HW4_msm796/CitibikeReview_vvt221.md
 
 
 # Assignment 2
