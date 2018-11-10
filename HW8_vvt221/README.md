@@ -25,4 +25,5 @@ The visualization is an attemp to explore if the socio-economic characteristics 
 # Assignment 2
 
 Citibike hypothesis testing, the authorea page is as follows: 
+
 https://www.authorea.com/users/249395/articles/335501-citibike-analysis-comparing-ridership-during-and-after-the-month-of-january
