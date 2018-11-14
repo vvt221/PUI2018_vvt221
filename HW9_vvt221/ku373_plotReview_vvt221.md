@@ -2,7 +2,7 @@
 
 # PLOT REVIEW
 
-![main plot](Image/Picture_for_Assignment.png)
+![main plot](Picture_for_Assignment.png)
 
 ## CLARITY:
 
