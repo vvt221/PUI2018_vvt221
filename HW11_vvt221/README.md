@@ -1,4 +1,20 @@
-# Assignment 1
+# PUI HW 11 
+
+## Assignment 1
+
+* Worked independently on the assignment. Used Python3_2016 kernel. Please use the same to avoid compatibility errors.
+
+* Part 1: Identified the significant event which caused ridership across all stations.
+* Part 2: Identified the change in ridership from the beginning to the end for different card types.
+* Part 3: Performed random forest classifier for following feature types:
+          1. Slope , intercept, mean and standard deviation of the timeseries
+          2. Weekly ridership values
+          
+          Identified the important features of the classification process.
+
+
+
+## Assignment 2
 
 * Incorporated changes as per peer review
   * Reversed color scheme for point values.
@@ -12,14 +28,3 @@
   ### Figure 3: This plot displays the income of each puma against which the total ridership of each citibike station is plotted. It appears that higher income areas have higher ridership citibike stations.
 
 
-# Assignment 2
-
-* Worked independently on the assignment. Used Python3_2016 kernel. Please use the same to avoid compatibility errors.
-
-* Part 1: Identified the significant event which caused ridership across all stations.
-* Part 2: Identified the change in ridership from the beginning to the end for different card types.
-* Part 3: Performed random forest classifier for following feature types:
-          1. Slope , intercept, mean and standard deviation of the timeseries
-          2. Weekly ridership values
-          
-          Identified the important features of the classification process.
