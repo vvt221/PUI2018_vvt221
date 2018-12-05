@@ -14,7 +14,7 @@
 
 # Assignment 2
 
-* Worked independently on the assignment
+* Worked independently on the assignment. Used Python3_2016 kernel. Please use the same to avoid compatibility errors.
 
 * Part 1: Identified the significant event which caused ridership across all stations.
 * Part 2: Identified the change in ridership from the beginning to the end for different card types.
