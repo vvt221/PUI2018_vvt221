@@ -7,6 +7,10 @@
 * Isolated time series clusters and plotted them independently 
 * Performed hierarchical agglomerative clustering and plotted the dendogram
 
+* Update: 
+kept 245 values instead pf 230 ,didnt drop nans
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
+
 ## Assignment 2:
 
 * Worked independently on the HW
