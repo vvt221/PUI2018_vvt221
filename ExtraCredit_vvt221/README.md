@@ -12,11 +12,11 @@ High lead levels in water are often associated with learning and development dis
 
 The aim of the project is to perform an exploratory analysis if the presence of outlets having lead > 15 ppb in schools in any way affects the grades in the subject of Mathematics for students of that school and its possible effect is assessed across different demographic factors such as gender, ethnicity and economic background of the students.
 The analysis spans 5 different levels:
-Observation of correlation between the high lead levels and the mean scale score for Mathematics.
-Test for the Gaussianity of the distribution of the mean scale score for Mathematics.
-Test for the difference in the proportion of the males and females having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
-Test for the difference in the proportion of the various ethnicities(Asian, Hispanic, Black, White) having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
-Test for the difference in the proportion of the different economic backgrounds(Economically Disadvantaged and Not Economically Disadvantaged)having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
+1. Observation of correlation between the high lead levels and the mean scale score for Mathematics.
+2. Test for the Gaussianity of the distribution of the mean scale score for Mathematics.
+3. Test for the difference in the proportion of the males and females having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
+4. Test for the difference in the proportion of the various ethnicities(Asian, Hispanic, Black, White) having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
+4. Test for the difference in the proportion of the different economic backgrounds(Economically Disadvantaged and Not Economically Disadvantaged)having a mean scale score than the average mean scale score for Mathematics for the schools having the presence of lead > 15 ppb in the water outlets.
 
 ### References:
 
@@ -26,5 +26,5 @@ Test for the difference in the proportion of the different economic backgrounds(
 
 ### Authorea report link:
 
-
+https://www.authorea.com/users/249395/articles/342211-principles-of-urban-informatics-extra-credit-project-report
 
